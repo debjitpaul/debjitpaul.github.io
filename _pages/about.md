@@ -17,11 +17,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <font size="4">
-<b>I’m on the academic and industry research job market! Please reach out if you know of opportunities. </b> <br />
 
-
-
-Hi there! I'm a Postdoctoral Researcher working with 
+Hi there! I'm a Research Scientist at Huawei Noah Ark's Lab, London. Previously, I was a Postdoctoral Researcher working with 
                           <a href="https://people.epfl.ch/antoine.bosselut" target="_blank">Antoine Bosselut</a>,
                           <a href="https://people.epfl.ch/boi.faltings" target="_blank">Boi Faltings</a>, and 
                           <a href="https://people.epfl.ch/robert.west" target="_blank">Robert West</a> 
@@ -29,7 +26,7 @@ Hi there! I'm a Postdoctoral Researcher working with
                                 <a href="https://dlab.epfl.ch/" target="_blank">dLab</a>, and 
                                 <a href="https://nlp.epfl.ch/" target="_blank">NLP</a> --> at
                           <a href="https://www.epfl.ch/" target="_blank">EPFL</a>. Before EPFL, I completed my Ph.D. under the supervision of 
-                          <a href="http://www.cl.uni-heidelberg.de/~frank/" target="_blank"> Anette Frank </a> in the Department of Computational Linguistics at Heidelberg University and also a part of Research Training Group AIPHES. <br />
+                          <a href="http://www.cl.uni-heidelberg.de/~frank/" target="_blank"> Anette Frank </a> in the Department of Computational Linguistics at Heidelberg University and was also a part of the Research Training Group AIPHES. <br />
 
 <!--The core of my research lies at the convergence of Linguistics, Cognitive Science, and AI. Currently, my research focuses on (controllable) text generation, commonsense reasoning, and unsupervised learning.
 
@@ -43,7 +40,7 @@ The research topics that I focus on are as follows: <br />
 
 Finally, my long-term research objective is to imbue machines with human-like communication abilities and commonsense knowledge and reasoning capabilities. Build AI systems that can do complex interplay between language, knowledge representation, and cognitive reasoning processes.-->
 
-My overarching research objective is to enhance the <b>reasoning capabilities of artificial agents</b> by advancing their ability to understand the complex interplay between language, knowledge representation, and cognitive reasoning processes. To accomplish this goal, I have focused my investigations in three areas:
+My overarching research objective is to enhance the <b>reasoning capabilities of artificial agents</b> by advancing their ability to understand the complex interplay between language, knowledge representation, and cognitive reasoning processes. To accomplish this goal, I have focused my investigations on three areas:
 
 <ul>
 <li><b>Reasoning with knowledge representations</b> - AI agents must be grounded by knowledge dynamics to generalize to unseen situations robustly. My research has focused on designing computational models capable of reasoning over knowledge. <br /></li>
