@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Postdoc at EPFL</a>
+subtitle: <a href='#'>Research Scientist</a>
 
 profile:
   align: right
