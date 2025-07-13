@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 <font size="4">
 
-Hi there! I'm a Research Scientist at Huawei Noah Ark's Lab, London. Previously, I was a Postdoctoral Researcher working with 
+Hi there! I'm a Research Scientist at Noah Ark's Lab, London. Previously, I was a Postdoctoral Researcher working with 
                           <a href="https://people.epfl.ch/antoine.bosselut" target="_blank">Antoine Bosselut</a>,
                           <a href="https://people.epfl.ch/boi.faltings" target="_blank">Boi Faltings</a>, and 
                           <a href="https://people.epfl.ch/robert.west" target="_blank">Robert West</a> 
