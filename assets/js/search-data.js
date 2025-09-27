@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-publications",
+  },{id: "nav-publications",
           title: "publications",
           description: "Selected Publications",
           section: "Navigation",
@@ -29,6 +22,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
+          },
+        },{id: "nav-blog",
+          title: "blog",
+          description: "Research updates, insights, and thoughts on AI reasoning and computational linguistics",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -105,6 +105,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/pseudocode/";
+          
+        },
+      },{id: "post-making-reasoning-matter-measuring-faithfulness-in-chain-of-thought-reasoning",
+        
+          title: "Making Reasoning Matter - Measuring Faithfulness in Chain-of-Thought Reasoning",
+        
+        description: "A deep dive into our latest research on evaluating and improving the faithfulness of chain-of-thought reasoning in large language models.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/reasoning-matter/";
           
         },
       },{id: "post-a-post-with-code-diff",
