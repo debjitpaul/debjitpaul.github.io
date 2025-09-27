@@ -501,7 +501,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%64%65%62%6A%69%74%70%61%75%6C%6D%73@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-inspire',
@@ -522,7 +522,14 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=jJ8MjZMAAAAJ&hl=en&oi=ao", "_blank");
+        },
+      },{
+        id: 'social-semanticscholar',
+        title: 'Semantic Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.semanticscholar.org/author/2261760962", "_blank");
         },
       },{
         id: 'social-custom_social',
