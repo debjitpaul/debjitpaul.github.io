@@ -15,8 +15,8 @@
       description:
         - Supervised by Prof. Anette Frank
         - Social Commonsense Reasoning with Structured Knowledge in Text
-        - My research has focused on designing computational models capable of reasoning over knowledge.
-        - My research has focused on designing computational models that generate explanations before making the final decisions.
+        - Neuro-Symbolic:
+            - My research has focused on designing computational models capable of reasoning over knowledge.
         - Published 8 papers in NLP leading conferences and workshops.
     - title: Masters
       institution: Saarland University, Germany
