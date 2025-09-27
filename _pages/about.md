@@ -35,7 +35,7 @@ Hi there! I'm a Research Scientist at Noah Ark's Lab, London. Previously, I was 
 <!--The core of my research lies at the convergence of Linguistics, Cognitive Science, and AI. Currently, my research focuses on (controllable) text generation, commonsense reasoning, and unsupervised learning.
 <!--<a href="https://lia.epfl.ch/" target="_blank">LIA lab</a>,
                                 <a href="https://dlab.epfl.ch/" target="_blank">dLab</a>, and
-                                <a href="https://nlp.epfl.ch/" target="_blank">NLP</a> -->
+                                <a href="https://nlp.epfl.ch/" target="_blank">NLP</a>
 
 The research topics that I focus on are as follows: <br />
 
