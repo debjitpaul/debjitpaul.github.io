@@ -40,8 +40,9 @@ Our causal mediation analysis across different model families reveals several im
 ### Task-Specific Patterns
 
 We evaluated on three types of reasoning tasks:
+
 - **Mathematical Reasoning** (GSM8K)
-- **Strategic Reasoning** (StrategyQA) 
+- **Strategic Reasoning** (StrategyQA)
 - **Causal Understanding**
 
 Results show that faithfulness varies significantly across task types, with mathematical reasoning showing different patterns compared to strategic reasoning tasks.
@@ -66,6 +67,7 @@ This work has important implications for:
 ## Future Directions
 
 Our findings open several avenues for future research:
+
 - Developing training methods that promote faithfulness
 - Creating better evaluation metrics for reasoning quality
 - Understanding the relationship between model scale and reasoning faithfulness
@@ -73,6 +75,7 @@ Our findings open several avenues for future research:
 ---
 
 **Citation:**
+
 ```bibtex
 @misc{debjit2024frodo,
     title={Making Reasoning Matter: Measuring and Improving Faithfulness of Chain-of-Thought Reasoning},
@@ -85,10 +88,11 @@ Our findings open several avenues for future research:
 ```
 
 **Links:**
+
 - [Paper on arXiv](https://arxiv.org/abs/2402.13950)
 - [Project Page](/reasoningmatter/)
-- [Code Repository](https://github.com/debjitpaul/reasoning-matter) *(if available)*
+- [Code Repository](https://github.com/debjitpaul/reasoning-matter) _(if available)_
 
 ---
 
-*This post is part of our ongoing research into making AI reasoning more transparent and reliable. For more updates on our work, follow our [research blog](/blog/).*
+_This post is part of our ongoing research into making AI reasoning more transparent and reliable. For more updates on our work, follow our [research blog](/blog/)._
