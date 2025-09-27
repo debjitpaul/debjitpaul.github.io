@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -436,8 +443,8 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-is-accepted-at-iclr-2025-include",
           title: 'One paper is accepted at ICLR 2025 (INCLUDE)',
           description: "",
-          section: "News",},{id: "news-one-paper-fipo-fallacy-informed-preference-optimisation-won-the-outstanding-paper-award-at-naacl-2025",
-          title: 'One paper, FIPO: Fallacy-Informed Preference Optimisation, won the Outstanding Paper Award 🏆 at...',
+          section: "News",},{id: "news-our-paper-fipo-fallacy-informed-preference-optimisation-received-the-outstanding-paper-award-at-naacl-2025",
+          title: 'Our paper FIPO: Fallacy-Informed Preference Optimisation received the Outstanding Paper Award 🏆 at...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
