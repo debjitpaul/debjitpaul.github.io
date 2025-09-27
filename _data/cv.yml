@@ -9,81 +9,70 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D. in Computational Linguistics
       institution: Heidelberg University, Germany
-      year: 2018-2022
+      year: 2018–2022
       description:
         - Supervised by Prof. Anette Frank
-        - Social Commonsense Reasoning with Structured Knowledge in Text
-        - Neuro-Symbolic:
-            - My research has focused on designing computational models capable of reasoning over knowledge.
-        - Published 8 papers in NLP leading conferences and workshops.
-    - title: Masters
+        - Dissertation: *Social Commonsense Reasoning with Structured Knowledge in Text*
+        - Focus: Neuro-symbolic approaches for designing computational models capable of reasoning over structured knowledge
+        - Published 8 papers in leading NLP conferences and workshops (ACL, EMNLP, etc.)
+    - title: M.Sc. in Computational Linguistics
       institution: Saarland University, Germany
-      year: 2014-2017
+      year: 2014–2017
       description:
-        - Handling Noisy Labels for Robustly Learning from Self-Training Data for Low-Resource Sequence Labeling
+        - Thesis: *Handling Noisy Labels for Robust Self-Training in Low-Resource Sequence Labeling*
 
 - title: Experience
   type: time_table
   contents:
-    - title: Research Intern
-      institution: Amazon
-      year: 2021 - 2022
-      description:
-        - Continual Learning for Intent Classification Task
-        - Designed new real-world continual learning experiment setup for production
-        - Developed methods for class incremental learning, aiming to expand the features for spoken language understanding tasks within a voice assistant framework like Alexa
-
     - title: Postdoctoral Researcher
-      institution: EPFL
-      year: 2022 - 2024
+      institution: EPFL, Switzerland
+      year: 2022–2024
       description:
-        - Funded by Tailor EU Project
-        - Published 10 papers in AI & ML leading venues like ACL, EMNLP, ICLR, NAACL.
-        - Developed methods to enhance the reasoning capabilities of LLMs
-        - Designed new benchmark datasets to evaluate the reasoning capabilities of LLMs
-        - Developed reinforcement learning methods to enhance text generation capabilities of current NLP systems
-  #  - Project Details
-  #  items:
-  #    - Sub-description 1.
-  #    - Sub-description 2.
-#  - Project Details
-#  items:
-#    - Knowledge Distillation
-#    - Elastic Weight Consolidation
+        - Funded by the Tailor EU Project
+        - Published 10 papers in top AI/ML venues (ACL, EMNLP, NAACL, ICLR)
+        - Developed methods to enhance reasoning capabilities of large language models (LLMs)
+        - Designed benchmark datasets to evaluate reasoning in LLMs
+        - Explored reinforcement learning techniques to improve faithfulness and controllability in text generation
+    - title: Research Intern
+      institution: Amazon, Germany
+      year: 2021–2022
+      description:
+        - Worked on continual learning for intent classification in voice assistants (e.g., Alexa)
+        - Designed a new real-world continual learning experimental setup for production
+        - Proposed class-incremental learning methods to expand spoken language understanding features
+
 #- title: Open Source Projects
 #  type: time_table
 #  contents:
 #    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#      year: 2015-now
-#      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+#      year: 2015–present
+#      description: A clean and responsive Jekyll theme for academics.
 
 #- title: Honors and Awards
 #  type: time_table
 #  contents:
-#    - year: 1921
+#    - year: 2023
 #      items:
-#        - Nobel Prize in Physics
-#        - Matteucci Medal
-#    - year: 2029
+#        - [Award Name], [Organization]
+#    - year: 2020
 #      items:
-#        - Max Planck Medal
+#        - [Scholarship/Fellowship Name]
 
 #- title: Academic Interests
 #  type: nested_list
 #  contents:
-#    - title: Topic 1.
+#    - title: Reasoning and Explainability
 #      items:
-#        - Description 1.
-#        - Description 2.
-#    - title: Topic 2.
+#        - Neuro-symbolic reasoning
+#        - Faithful explanation generation
+#    - title: Language and Interaction
 #      items:
-#        - Description 1.
-#        - Description 2.
+#        - Human-AI interaction
+#        - Commonsense reasoning
 
 #- title: Other Interests
 #  type: list
 #  contents:
-#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
-
+#    - <u>Hobbies:</u> Reading, traveling, photography
