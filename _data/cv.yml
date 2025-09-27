@@ -14,14 +14,14 @@
       year: 2018–2022
       description:
         - Supervised by Prof. Anette Frank
-        - Dissertation: *Social Commonsense Reasoning with Structured Knowledge in Text*
+        - Dissertation: Social Commonsense Reasoning with Structured Knowledge in Text
         - Focus: Neuro-symbolic approaches for designing computational models capable of reasoning over structured knowledge
         - Published 8 papers in leading NLP conferences and workshops (ACL, EMNLP, etc.)
     - title: M.Sc. in Computational Linguistics
       institution: Saarland University, Germany
       year: 2014–2017
       description:
-        - Thesis: *Handling Noisy Labels for Robust Self-Training in Low-Resource Sequence Labeling*
+        - Thesis: Handling Noisy Labels for Robust Self-Training in Low-Resource Sequence Labeling
 
 - title: Experience
   type: time_table
@@ -42,7 +42,6 @@
         - Worked on continual learning for intent classification in voice assistants (e.g., Alexa)
         - Designed a new real-world continual learning experimental setup for production
         - Proposed class-incremental learning methods to expand spoken language understanding features
-
 #- title: Open Source Projects
 #  type: time_table
 #  contents:
