@@ -27,17 +27,15 @@ latest_posts:
 Hi there! I'm a Research Scientist at Noah Ark's Lab, London. Previously, I was a Postdoctoral Researcher working with
 <a href="https://people.epfl.ch/antoine.bosselut" target="_blank">Antoine Bosselut</a>,
 <a href="https://people.epfl.ch/boi.faltings" target="_blank">Boi Faltings</a>, and
-<a href="https://people.epfl.ch/robert.west" target="_blank">Robert West</a>
-
-<!--<a href="https://lia.epfl.ch/" target="_blank">LIA lab</a>,
-                                <a href="https://dlab.epfl.ch/" target="_blank">dLab</a>, and
-                                <a href="https://nlp.epfl.ch/" target="_blank">NLP</a> --> at
-
+<a href="https://people.epfl.ch/robert.west" target="_blank">Robert West</a>at
 <a href="https://www.epfl.ch/" target="_blank">EPFL</a>. Before EPFL, I completed my Ph.D. under the supervision of
 <a href="http://www.cl.uni-heidelberg.de/~frank/" target="_blank"> Anette Frank </a> in the Department of Computational Linguistics at
 <a href="https://www.cl.uni-heidelberg.de/nlpgroup/#landing" target="_blank"> Heidelberg University </a> and was also a part of the Research Training Group AIPHES. <br />
 
 <!--The core of my research lies at the convergence of Linguistics, Cognitive Science, and AI. Currently, my research focuses on (controllable) text generation, commonsense reasoning, and unsupervised learning.
+<!--<a href="https://lia.epfl.ch/" target="_blank">LIA lab</a>,
+                                <a href="https://dlab.epfl.ch/" target="_blank">dLab</a>, and
+                                <a href="https://nlp.epfl.ch/" target="_blank">NLP</a> -->
 
 The research topics that I focus on are as follows: <br />
 
