@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-making-reasoning-matter-measuring-faithfulness-in-chain-of-thought-reasoning",
+        },{id: "post-understanding-flops-mfu-and-computational-efficiency-in-llm-training-from-dense-transformers-to-moe-architectures",
+        
+          title: "Understanding FLOPs, MFU, and Computational Efficiency in LLM Training: From Dense Transformers to...",
+        
+        description: "A comprehensive guide to counting FLOPs in LLM training, measuring Model FLOPs Utilization (MFU), and extending these concepts to Mixture-of-Experts architectures with a deep dive into OpenAI&#39;s GPT-OSS models.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/compute/";
+          
+        },
+      },{id: "post-making-reasoning-matter-measuring-faithfulness-in-chain-of-thought-reasoning",
         
           title: "Making Reasoning Matter - Measuring Faithfulness in Chain-of-Thought Reasoning",
         
