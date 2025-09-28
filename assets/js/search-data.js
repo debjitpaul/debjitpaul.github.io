@@ -41,9 +41,20 @@ ninja.data = [{
             window.location.href = "/blog/2025/compute/";
           
         },
+      },{id: "post-fipo-fallacy-informed-preference-optimization-steering-llms-toward-logically-sound-arguments",
+        
+          title: "FIPO: Fallacy-Informed Preference Optimization - Steering LLMs Toward Logically Sound Arguments",
+        
+        description: "🏆 Outstanding Paper Award Winner at NAACL 2025! Introducing FIPO, a novel framework that reduces logical fallacy errors in LLM-generated arguments by up to 17.5% through fallacy-informed preference optimization.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/fipo-outstanding-paper-award/";
+          
+        },
       },{id: "post-making-reasoning-matter-measuring-faithfulness-in-chain-of-thought-reasoning",
         
-          title: "Making Reasoning Matter - Measuring Faithfulness in Chain-of-Thought Reasoning",
+          title: "Making Reasoning Matter: Measuring Faithfulness in Chain-of-Thought Reasoning",
         
         description: "A deep dive into our latest research on evaluating and improving the faithfulness of chain-of-thought reasoning in large language models.",
         section: "Posts",
