@@ -52,11 +52,11 @@ ninja.data = [{
             window.location.href = "/blog/2024/reasoning-matter/";
           
         },
-      },{id: "post-blog",
+      },{id: "post-refiner",
         
-          title: "blog",
+          title: "REFINER",
         
-        description: "Research updates, insights, and thoughts on AI reasoning and computational linguistics",
+        description: "Feedback LLM to improve their performance",
         section: "Posts",
         handler: () => {
           
