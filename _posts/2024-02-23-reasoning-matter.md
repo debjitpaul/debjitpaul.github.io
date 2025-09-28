@@ -9,8 +9,6 @@ featured: true
 thumbnail: /assets/img/reasoning_matter_thumbnail.jpg
 ---
 
-
-
 Large Language Models (LLMs) have shown remarkable capabilities in complex reasoning tasks when prompted to generate step-by-step explanations, known as Chain-of-Thought (CoT) reasoning. However, a critical question remains: **Do these models actually use their generated reasoning steps to arrive at their final answers?**
 
 ## The Problem
