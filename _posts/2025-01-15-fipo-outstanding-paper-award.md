@@ -243,7 +243,7 @@ This demonstrates FIPO's ability to generalize to new domains and topics.
 
 This work was a collaborative effort with amazing researchers:
 
-- **Luca Mouchel** (Lead Author)
+- **Luca Mouchel** (Lead Author, Master Internship)
 - **Shaobo Cui**, **Robert West**, **Antoine Bosselut**, **Boi Faltings**
 - **EPFL, Switzerland**
 
