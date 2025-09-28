@@ -52,12 +52,7 @@ ninja.data = [{
             window.location.href = "/blog/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-successfully-defended-my-phd-thesis-man-student",
+      },{id: "news-successfully-defended-my-phd-thesis-man-student",
           title: 'Successfully defended my PhD. Thesis :man_student:',
           description: "",
           section: "News",},{id: "news-talk-at-ku-leuven-neuro-symbolic-commonsense-reasoning-in-nlp",
