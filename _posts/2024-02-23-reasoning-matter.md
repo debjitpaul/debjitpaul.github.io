@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Making Reasoning Matter - Measuring Faithfulness in Chain-of-Thought Reasoning
+title: "Making Reasoning Matter: Measuring Faithfulness in Chain-of-Thought Reasoning"
 date: 2024-02-23
 description: A deep dive into our latest research on evaluating and improving the faithfulness of chain-of-thought reasoning in large language models.
 tags: [reasoning, chain-of-thought, LLMs, faithfulness, causal-analysis]
