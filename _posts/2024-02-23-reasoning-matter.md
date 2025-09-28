@@ -9,7 +9,7 @@ featured: true
 thumbnail: /assets/img/reasoning_matter_thumbnail.jpg
 ---
 
-# Making Reasoning Matter: Measuring and Improving Faithfulness of Chain-of-Thought Reasoning
+
 
 Large Language Models (LLMs) have shown remarkable capabilities in complex reasoning tasks when prompted to generate step-by-step explanations, known as Chain-of-Thought (CoT) reasoning. However, a critical question remains: **Do these models actually use their generated reasoning steps to arrive at their final answers?**
 
