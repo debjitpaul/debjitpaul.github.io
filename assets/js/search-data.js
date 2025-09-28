@@ -41,6 +41,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/reasoning-matter/";
           
         },
+      },{id: "post-blog",
+        
+          title: "blog",
+        
+        description: "Research updates, insights, and thoughts on AI reasoning and computational linguistics",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
