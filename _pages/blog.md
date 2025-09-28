@@ -2,7 +2,7 @@
 layout: page
 title: blog
 permalink: /blog/
-description: Research updates, insights, and thoughts on AI reasoning and computational linguistics
+description: Research updates, insights, and thoughts on AI and NLP
 nav: true
 nav_order: 4
 pagination:
@@ -20,7 +20,6 @@ pagination:
 <div class="post">
   <div class="header-bar">
     <h1>Research Blog</h1>
-    <h2>{{ page.description }}</h2>
   </div>
 
   <!-- Featured Research Section -->
