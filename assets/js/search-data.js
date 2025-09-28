@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-blog",
           title: "blog",
-          description: "Research updates, insights, and thoughts on AI reasoning and computational linguistics",
+          description: "Research updates, insights, and thoughts on AI and NLP",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/";
