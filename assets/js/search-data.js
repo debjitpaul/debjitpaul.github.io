@@ -38,7 +38,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/compute/";
+            window.location.href = "/blog/2025/compute/";
           
         },
       },{id: "post-making-reasoning-matter-measuring-faithfulness-in-chain-of-thought-reasoning",
