@@ -63,9 +63,9 @@ ninja.data = [{
             window.location.href = "/blog/2024/reasoning-matter/";
           
         },
-      },{id: "post-refiner",
+      },{id: "post-blog",
         
-          title: "REFINER",
+          title: "blog",
         
         description: "Feedback LLM to improve their performance",
         section: "Posts",
