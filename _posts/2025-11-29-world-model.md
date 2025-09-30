@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Children Know That AI Doesn't: Learning Through Experience, Not Text"
+title: "What Children Know That AI Doesn't: Learning Through Experience, Not Text (!Work in Progress!)"
 date: 2025-09-30
 description: "Jean Piaget revealed how children construct understanding through action, surprise, and adaptation. His insights expose fundamental gaps in current AI—systems that predict words, not reality."
 tags: [cognitive-development, piaget, ai-reasoning, world-models, experiential-learning]
@@ -8,8 +8,6 @@ categories: [research, ai-theory]
 featured: true
 thumbnail: /assets/img/piaget_ai_thumbnail.jpg
 ---
-
-# What Children Know That AI Doesn't: Learning Through Experience, Not Text
 
 A toddler drops a toy. It falls. They drop it again. By the third time, they predict the fall before releasing. Drop a helium balloon, and watch their delighted confusion—it floats upward instead. This simple interaction contains a profound lesson: the child is building a causal model of gravity through direct experience, learning from genuine surprise when reality violates predictions.
 
