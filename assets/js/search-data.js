@@ -41,6 +41,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/world-model/";
           
         },
+      },{id: "post-what-children-know-that-ai-doesn-39-t-learning-through-experience-not-text",
+        
+          title: "What Children Know That AI Doesn&#39;t: Learning Through Experience, Not Text",
+        
+        description: "Jean Piaget revealed how children construct understanding through action, surprise, and adaptation. His insights expose fundamental gaps in current AI—systems that predict words, not reality. But a new paradigm is emerging.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/world-model/";
+          
+        },
       },{id: "post-understanding-flops-mfu-and-computational-efficiency-in-llm-training-from-dense-transformers-to-moe-architectures",
         
           title: "Understanding FLOPs, MFU, and Computational Efficiency in LLM Training: From Dense Transformers to...",
