@@ -125,7 +125,7 @@ The history of AI reveals a striking pattern. As Silver and Sutton document, we'
 
 ![Evolution of AI paradigms from simulation to human data to experience](/assets/img/ai_eras_timeline.png)
 
-*Figure: A chronology of dominant AI paradigms showing the transition from the Era of Simulation (narrow domains, clear rewards) through the Era of Human Data (broad capabilities from text) to the emerging Era of Experience (experiential learning at scale). Adapted from Silver & Sutton (2025).[^15]*
+_Figure: A chronology of dominant AI paradigms showing the transition from the Era of Simulation (narrow domains, clear rewards) through the Era of Human Data (broad capabilities from text) to the emerging Era of Experience (experiential learning at scale). Adapted from Silver & Sutton (2025).[^15]_
 
 Each transition brought gains and losses. The Era of Simulation produced agents like AlphaZero that discovered fundamentally new strategies—knowledge that went beyond human understanding. But these systems were confined to narrow domains with clear reward signals. The Era of Human Data achieved remarkable generality but lost the ability to self-discover knowledge. As Silver and Sutton observe: "something was lost in this transition: an agent's ability to self-discover its own knowledge."[^15]
 
@@ -155,14 +155,14 @@ This mirrors exactly how children learn. A toddler isn't taught a theory of grav
 
 The convergence between Piaget's developmental psychology and modern reinforcement learning is profound:
 
-| Piaget's Concepts | RL/Experiential AI Equivalent |
-|----------------------|----------------------------------|
-| Schemas | World models that predict consequences of actions |
-| Assimilation/Accommodation | Value function updates vs. model restructuring |
-| Sensorimotor stage | Grounded interaction with environments through actions and observations |
-| Object permanence | Learning temporal persistence and causality through experience |
-| Learning from surprise | Prediction error as learning signal |
-| Action → Consequence | Agent actions receive environment feedback |
+| Piaget's Concepts          | RL/Experiential AI Equivalent                                           |
+| -------------------------- | ----------------------------------------------------------------------- |
+| Schemas                    | World models that predict consequences of actions                       |
+| Assimilation/Accommodation | Value function updates vs. model restructuring                          |
+| Sensorimotor stage         | Grounded interaction with environments through actions and observations |
+| Object permanence          | Learning temporal persistence and causality through experience          |
+| Learning from surprise     | Prediction error as learning signal                                     |
+| Action → Consequence       | Agent actions receive environment feedback                              |
 
 Both frameworks recognize that intelligence is not knowledge transfer but knowledge construction through experience. The key insight: cognitive structures emerge from the repeated cycle of prediction, action, observation, and adaptation.
 
