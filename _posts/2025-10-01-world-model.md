@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Children Know That AI Doesn't: Learning Through Experience, Not Text"
-date: 2025-10-01
+date: 2025-09-30
 description: "Jean Piaget revealed how children construct understanding through action, surprise, and adaptation. His insights expose fundamental gaps in current AI—systems that predict words, not reality. But a new paradigm is emerging."
 tags: [cognitive-development, piaget, ai-reasoning, world-models, experiential-learning, reinforcement-learning]
 categories: [research, ai-theory]
@@ -47,33 +47,33 @@ Piaget proposed that cognitive development progresses through four distinct, uni
 
 Children learn through direct sensory experience and motor action.[^5] Key achievement: object permanence—things exist even when unseen. This requires repeated experimentation, sensorimotor feedback, and surprise learning. Infants master causality and object permanence by manipulating their surroundings and learning from the consequences.[^6]
 
-For AI: This is the embodiment problem. Systems trained on text or static images lack sensorimotor grounding, action-consequence loops, and physical intuition. They reason about physics they've never experienced.
+**For AI**: This is the embodiment problem. Systems trained on text or static images lack sensorimotor grounding, action-consequence loops, and physical intuition. They reason about physics they've never experienced.
 
 ### Stage 2: Preoperational (2-7 years)
 
 Symbolic thinking emerges—using words to represent objects not present.[^7] But limitations remain: difficulty reversing operations mentally, focusing on one aspect while ignoring others (centration), inability to take others' perspectives (egocentrism).
 
-For AI: This is where LLMs operate. They manipulate symbols fluently but show systematic limitations—sensitivity to surface features, difficulty with logical reversibility, brittle performance when prompts change slightly.
+**For AI**: This is where LLMs operate. They manipulate symbols fluently but show systematic limitations—sensitivity to surface features, difficulty with logical reversibility, brittle performance when prompts change slightly.
 
 ### Stage 3: Concrete Operational (7-11 years)
 
 Logical reasoning develops—but only with concrete, tangible examples.[^8] Children can classify hierarchically, understand conservation (quantity remains constant despite changes in appearance), reverse operations mentally. But they struggle with abstract concepts and hypothetical reasoning.
 
-For AI: Current systems rarely reach this stage. LLMs sometimes simulate logical inference through pattern matching but lack stable, consistent logical frameworks.
+**For AI**: Current systems rarely reach this stage. LLMs sometimes simulate logical inference through pattern matching but lack stable, consistent logical frameworks.
 
 ### Stage 4: Formal Operational (12+ years)
 
 Abstract reasoning, hypothesis testing, scientific thinking.[^9] Understanding abstract concepts, reasoning about hypotheticals, thinking about thinking (metacognition).
 
-For AI: The unreached goal. Even frontier systems show brittle, domain-specific reasoning that doesn't transfer robustly.
+**For AI**: The unreached goal. Even frontier systems show brittle, domain-specific reasoning that doesn't transfer robustly.
 
 ## Three Critical Gaps
 
 ### Gap 1: Experience vs. Description
 
-Piaget: Knowledge comes from acting on the world and observing consequences. A child learns "hot" by experiencing heat, connecting sensation to cause. Cognitive development emerges from the interaction between the child's actions and the environment's responses.[^10]
+**Piaget**: Knowledge comes from acting on the world and observing consequences. A child learns "hot" by experiencing heat, connecting sensation to cause. Cognitive development emerges from the interaction between the child's actions and the environment's responses.[^10]
 
-Current AI: Learns from descriptions of others' experiences. An LLM has read "fire is hot" millions of times but never experienced heat. It predicts what people say about heat, not what heat actually feels like or causes.
+**Current AI**: Learns from descriptions of others' experiences. An LLM has read "fire is hot" millions of times but never experienced heat. It predicts what people say about heat, not what heat actually feels like or causes.
 
 As Alan Turing observed, true machine intelligence requires "machines that can learn from experience, where experience means things that actually happened."[^11] Current LLMs lack this experiential grounding—they absorb descriptions, not reality.
 
@@ -81,7 +81,7 @@ As Alan Turing observed, true machine intelligence requires "machines that can l
 
 **World Models predict what will happen in reality**. A child's world model: "If I release this, it will fall." This prediction is tested against reality. When surprised (balloon floats), the model updates.
 
-**LLMs predict what would be said about reality**. They model P(next words \| previous words), not P(outcomes \| actions). When their linguistic prediction is wrong, they receive no feedback from reality—only more text descriptions, which themselves might be incorrect.
+**LLMs predict what would be said about reality**. They model P(next words | previous words), not P(outcomes | actions). When their linguistic prediction is wrong, they receive no feedback from reality—only more text descriptions, which themselves might be incorrect.
 
 Consider:
 
@@ -123,7 +123,9 @@ Piaget's framework suggests several principles:
 
 The history of AI reveals a striking pattern. As Silver and Sutton document, we've moved through distinct eras: early symbolic AI, the "Era of Simulation" (where reinforcement learning agents mastered games like chess, Go, and StarCraft through self-play), and most recently, the "Era of Human Data" (where large language models trained on massive text corpora achieved unprecedented breadth of capabilities).[^15]
 
-![Evolution of AI paradigms from simulation to human data to experience](/assets/img/ai_eras_timeline.png)
+<div style="text-align: center; margin: 2em 0;">
+  <img src="/assets/img/ai_eras_timeline.png" alt="Evolution of AI paradigms" style="max-width: 700px; width: 100%; height: auto;">
+</div>
 
 _Figure: A chronology of dominant AI paradigms showing the transition from the Era of Simulation (narrow domains, clear rewards) through the Era of Human Data (broad capabilities from text) to the emerging Era of Experience (experiential learning at scale). Adapted from Silver & Sutton (2025).[^15]_
 
