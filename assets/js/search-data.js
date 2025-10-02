@@ -30,18 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-what-children-know-that-ai-doesn-39-t-learning-through-experience-not-text-work-in-progress",
-        
-          title: "What Children Know That AI Doesn&#39;t: Learning Through Experience, Not Text (!Work in...",
-        
-        description: "Jean Piaget revealed how children construct understanding through action, surprise, and adaptation. His insights expose fundamental gaps in current AI—systems that predict words, not reality.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/world-model/";
-          
-        },
-      },{id: "post-what-children-know-that-ai-doesn-39-t-learning-through-experience-not-text",
+        },{id: "post-what-children-know-that-ai-doesn-39-t-learning-through-experience-not-text",
         
           title: "What Children Know That AI Doesn&#39;t: Learning Through Experience, Not Text",
         
