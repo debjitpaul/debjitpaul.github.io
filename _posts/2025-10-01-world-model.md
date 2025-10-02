@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Children Know That AI Doesn't: Learning Through Experience, Not Text"
-date: 2025-09-30
+date: 2025-10-01
 description: "Jean Piaget revealed how children construct understanding through action, surprise, and adaptation. His insights expose fundamental gaps in current AI—systems that predict words, not reality. But a new paradigm is emerging."
 tags: [cognitive-development, piaget, ai-reasoning, world-models, experiential-learning, reinforcement-learning]
 categories: [research, ai-theory]
