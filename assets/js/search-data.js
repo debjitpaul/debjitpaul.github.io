@@ -78,7 +78,7 @@ ninja.data = [{
         
           title: "blog",
         
-        description: "Feedback LLM to improve their performance",
+        description: "Blog posts on AI and NLP Research Topics",
         section: "Posts",
         handler: () => {
           
