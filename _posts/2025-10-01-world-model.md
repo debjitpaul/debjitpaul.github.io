@@ -13,13 +13,13 @@ A toddler drops a toy. It falls. They drop it again. By the third time, they pre
 
 Now consider GPT-4. It has "read" millions of descriptions of falling objects and can generate fluent text: "when you drop something, it falls due to gravity." But it has never experienced releasing an object, never felt acceleration, never been surprised by a balloon floating. It predicts what would be said about dropping objects, not what would actually happen.
 
-This distinction—between linguistic pattern matching and genuine causal understanding grounded in experience—reveals why current AI, despite impressive capabilities, lacks true intelligence. Jean Piaget's theory of cognitive development offers a framework for understanding what's missing.
+This distinction—between linguistic pattern matching and genuine causal understanding grounded in experience—reveals why current AI, despite impressive capabilities, lacks true intelligence. 
 
-Yet something remarkable is happening. After decades dominated by learning from human-generated text and data, AI is beginning to rediscover what children have always known: true understanding comes from experience. As Silver and Sutton (2025) argue, we're entering an "Era of Experience" where AI will finally learn the way children do—through interaction, surprise, and genuine engagement with reality.[^15]
+<!--Yet something remarkable is happening. After decades dominated by learning from human-generated text and data, AI is beginning to rediscover what children have always known: true understanding comes from experience. As Silver and Sutton (2025) argue, we're entering an "Era of Experience" where AI will finally learn the way children do—through interaction, surprise, and genuine engagement with reality.[^15]-->
 
 ## Piaget's Core Insight: Knowledge is Constructed Through Experience
 
-Swiss psychologist Jean Piaget (1896-1980) made a revolutionary claim: children don't passively absorb knowledge. They actively construct understanding through interaction with the world.[^1] Knowledge isn't transmitted—it's built by the learner through experience, experimentation, and adaptation.
+Swiss psychologist Jean Piaget's theory of cognitive development offers a framework for understanding what's missing. He made a revolutionary claim: children don't passively absorb knowledge. They actively construct understanding through interaction with the world.[^1] Knowledge isn't transmitted—it's built by the learner through experience, experimentation, and adaptation.
 
 This has immediate implications for AI. Current machine learning follows a transmission model: massive datasets encode patterns, models absorb them through optimization. But a child doesn't need millions of examples to understand gravity—they construct the concept through dozens of hands-on experiments, generalizing from minimal data by building causal models, not memorizing correlations.
 
