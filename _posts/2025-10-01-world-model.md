@@ -13,7 +13,7 @@ A toddler drops a toy. It falls. They drop it again. By the third time, they pre
 
 Now consider GPT-4. It has "read" millions of descriptions of falling objects and can generate fluent text: "when you drop something, it falls due to gravity." But it has never experienced releasing an object, never felt acceleration, never been surprised by a balloon floating. It predicts what would be said about dropping objects, not what would actually happen.
 
-This distinction—between linguistic pattern matching and genuine causal understanding grounded in experience—reveals why current AI, despite impressive capabilities, lacks true intelligence. 
+This distinction—between linguistic pattern matching and genuine causal understanding grounded in experience—reveals why current AI, despite impressive capabilities, lacks true intelligence.
 
 <!--Yet something remarkable is happening. After decades dominated by learning from human-generated text and data, AI is beginning to rediscover what children have always known: true understanding comes from experience. As Silver and Sutton (2025) argue, we're entering an "Era of Experience" where AI will finally learn the way children do—through interaction, surprise, and genuine engagement with reality.[^15]-->
 
