@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I'm a **Research Scientist at Noah’s Ark Lab, London**. 
+Hi there! I'm a **Research Scientist at Noah’s Ark Lab, London**.
 
 Previously, I was a Postdoctoral Researcher at [EPFL](https://www.epfl.ch/), working with <a href="https://people.epfl.ch/antoine.bosselut" target="_blank">Antoine Bosselut</a>, <a href="https://people.epfl.ch/boi.faltings" target="_blank">Boi Faltings</a>, and <a href="https://people.epfl.ch/robert.west" target="_blank">Robert West</a>. Before EPFL, I completed my Ph.D. under the supervision of <a href="http://www.cl.uni-heidelberg.de/~frank/" target="_blank">Anette Frank</a> in the Department of Computational Linguistics at <a href="https://www.cl.uni-heidelberg.de/nlpgroup/#landing" target="_blank">Heidelberg University</a>, where I was also part of the Research Training Group **AIPHES**.
 
@@ -56,4 +56,3 @@ My overarching research objective is to enhance the <b>reasoning capabilities of
 **Trustworthy AI.** As AI systems become more capable, ensuring their reliability becomes critical. My research addresses challenges such as hallucination, unfaithful reasoning, and misalignment with human values. I develop methods for generating faithful explanations, detecting and mitigating factual errors, and aligning model behaviour through human and AI feedback. [[5](https://aclanthology.org/2021.acl-long.395/),[6](https://aclanthology.org/2024.eacl-long.67/),[7](https://aclanthology.org/2024.findings-emnlp.882/)]
 
 **Agentic AI.** The next generation of AI systems will need to plan, reason, and act autonomously in complex environments. My research focuses on building agents that can decompose complex tasks, leverage external tools and knowledge sources, and engage in multi-step decision-making while maintaining coherent long-term goals. [[8](https://arxiv.org/pdf/2308.01285),[9](https://openreview.net/forum?id=OhJTEkLYVQ),[10](https://openreview.net/pdf?id=0Dhpt9aY3n)]
-
