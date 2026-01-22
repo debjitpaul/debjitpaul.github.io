@@ -45,8 +45,15 @@ Finally, my long-term research objective is to imbue machines with human-like co
 
 My overarching research objective is to enhance the <b>reasoning capabilities of artificial agents</b> by advancing their ability to understand the complex interplay between language, knowledge representation, and cognitive reasoning processes. To accomplish this goal, I have focused my investigations on three areas:
 
-<ul>
+<!--ul>
 <li><b>Neuro-symbolic Reasoning</b> - AI systems must integrate structured, symbolic knowledge with neural representations to capture knowledge dynamics and generalise robustly to unseen situations. My research has focused on developing computational models that perform reasoning by combining the expressiveness of symbolic structures with the adaptability of neural architectures. <br /></li>
 <li><b>Learning to generate explanations for reasoning</b> - When a model explains its decision-making steps or logical steps it took to reach that conclusion, it enhances transparency and helps build trust in the system. My research has focused on designing computational models that generate explanations before making the final decisions.<br /></li>
 <li><b>Aligning Models with Human or AI Feedback</b> - Text generation models are observed to display undesired and inconsistent behaviours, such as hallucination and unfaithful reasoning. My research has focused on designing methods to rectify the undesired behaviours of text generation models through interaction.<br /></li>
+</ul-->
+<ul>
+<li>**Neuro-Symbolic Reasoning.** Understanding and reasoning about the world requires integrating structured knowledge with learned representations. My research develops computational models that combine symbolic knowledge graphs and logical structures with neural architectures, enabling AI systems to perform compositional reasoning while generalising robustly to novel situations. [[1](link),[2](link)]
+
+<li>**Trustworthy AI.** As AI systems become more capable, ensuring their reliability becomes critical. My research addresses challenges such as hallucination, unfaithful reasoning, and misalignment with human values. I develop methods for generating faithful explanations, detecting and mitigating factual errors, and aligning model behaviour through human and AI feedback. [[1](link),[2](link)]
+
+<li> **Agentic AI.**The next generation of AI systems will need to plan, reason, and act autonomously in complex environments. ** My research builds agents that can decompose complex tasks, leverage external tools and knowledge sources, and engage in multi-step decision-making while maintaining coherent long-term goals. [[1](link),[2](link)]
 </ul>
