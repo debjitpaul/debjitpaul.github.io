@@ -30,6 +30,9 @@ Hi there! I'm a **Senior Researcher at Microsoft Research India**.
 
 Previously, I was a Research Scientist at Huawei Noah's Ark Lab, London, and a Postdoctoral Researcher at [EPFL](https://www.epfl.ch/), working with <a href="https://people.epfl.ch/antoine.bosselut" target="_blank">Antoine Bosselut</a>, <a href="https://people.epfl.ch/boi.faltings" target="_blank">Boi Faltings</a>, and <a href="https://people.epfl.ch/robert.west" target="_blank">Robert West</a>. Before EPFL, I completed my Ph.D. under the supervision of <a href="http://www.cl.uni-heidelberg.de/~frank/" target="_blank">Anette Frank</a> in the Department of Computational Linguistics at <a href="https://www.cl.uni-heidelberg.de/nlpgroup/#landing" target="_blank">Heidelberg University</a>, where I was also part of the Research Training Group **AIPHES**.
 
+My work has been recognised with a **SAC Highlight at ACL 2026** and an **Outstanding Paper Award at NAACL 2025**. I serve as an **Area Chair for *ACL Conference**.
+
+
 <!--The core of my research lies at the convergence of Linguistics, Cognitive Science, and AI. Currently, my research focuses on (controllable) text generation, commonsense reasoning, and unsupervised learning.
 <!--<a href="https://lia.epfl.ch/" target="_blank">LIA lab</a>,
                                 <a href="https://dlab.epfl.ch/" target="_blank">dLab</a>, and
