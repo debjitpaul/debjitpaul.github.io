@@ -1,3 +1,17 @@
+---
+layout: post
+title: "When the Answer Is Not Enough: Why Process Evaluation Matters for AI Agents"
+date: 2026-09-14
+description: "As AI agents become increasingly capable, evaluating only their final answers may not be enough. We need to understand the processes that produce those answers."
+tags:
+  agents process-evaluation agentic-ai deep-research deepsynth evaluation
+categories:
+  research
+featured: true
+thumbnail: /assets/img/process_evaluation_thumbnail.jpg
+---
+
+
 # When the Answer Is Not Enough
 
 AI agents are getting better at planning, using tools, and completing complex, multi-step tasks. But as Yoshua Bengio has recently argued, more capable agents may also become more skilled at exploiting imperfections in the objectives and evaluations we give them. [1]
