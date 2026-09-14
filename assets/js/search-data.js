@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-what-children-know-that-ai-doesn-39-t-learning-through-experience-not-text",
+        },{id: "post-when-the-answer-is-not-enough-why-process-evaluation-matters-for-ai-agents",
+        
+          title: "When the Answer Is Not Enough: Why Process Evaluation Matters for AI Agents...",
+        
+        description: "As AI agents become increasingly capable, evaluating only their final answers may not be enough. We need to understand the processes that produce those answers.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/process-eval/";
+          
+        },
+      },{id: "post-what-children-know-that-ai-doesn-39-t-learning-through-experience-not-text",
         
           title: "What Children Know That AI Doesn&#39;t: Learning Through Experience, Not Text",
         
